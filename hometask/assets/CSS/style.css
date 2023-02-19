@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#div1{
+    border: 2px solid purple;
+    width: 30%;
+    margin: 3rem auto;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 0;
+
+}
+#div2{
+    border: 2px solid green;
+    width: 30%;
+    margin: 3rem auto;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 0;
+
+}#div3{
+    border: 2px solid blue;
+    width: 30%;
+    margin: 3rem auto;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 0;
+
+}
+#inp{
+    width: 80%;
+    height: 40px;
+    margin: 20px 0;
+    font-size: 14px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding-left: 10px;
+    outline: none;
+
+}
+#btn{
+    width: 80%;
+    height: 40px;
+    font-size: 14px;
+    border: 1px solid purple;
+    border-radius: 5px;
+    padding-left: 10px;
+    outline: none;
+    background-color: purple;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+   
+}
+#count{
+    width: 80%;
+    height: 40px;
+    margin: 20px 0;
+    font-size: 14px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding-left: 10px;
+    outline: none;
+    margin-left: 40px;
+
+}
+#plus{
+    width: 80%;
+    height: 40px;
+    font-size: 14px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding-left: 10px;
+    outline: none;
+    background-color:blue;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 5px;
+   
+}#minus{
+    width: 80%;
+    height: 40px;
+    font-size: 14px;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding-left: 10px;
+    outline: none;
+    background-color: red;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+   
+}
